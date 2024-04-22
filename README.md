@@ -1,8 +1,6 @@
-# CyberSecurity(Web App Testing,DarkWeb,OSINT)-SummerInternship
+# CyberSecurity(Web App Testing,DarkWeb,OSINT)
 
-Hello Friends👋
-
-My Name Is Prince Patel.I Have Learned This Best Thing In My Cybersecurity Internship.I Have Learned Fundamentals Of Cybersecurity, Web Application Testing OWASP Top 10 Attacks,OpenSource Intelligence.So Further Below I Provided All Things About My Internship Experience. 
+Hello Friends👋 
 
 What is Web application penetration testing?
 
